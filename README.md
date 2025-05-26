@@ -18,30 +18,6 @@ This project is a data analytics exercise that explores global data science sala
 
 ---
 
-## 📁 Project Structure
-
-```
-Data-Analytics-Project---1-Data-Science-Salaries/
-│
-├── Data_Science_Salaries.ipynb   # Main Jupyter Notebook with all analysis
-├── ds_salaries.csv               # Dataset file
-├── PowerBI/                      # Power BI reports and dashboards
-├── images/                       # Contains exported images and plots
-└── README.md                     # Project documentation
-```
-
----
-
-## 🛠️ Technologies Used
-
-- **Python** (Jupyter Notebook)
-- **Power BI** – Interactive dashboarding and visual storytelling
-- **Pandas** – Data manipulation
-- **Matplotlib** & **Seaborn** – Data visualization
-- **NumPy** – Numerical operations
-
----
-
 ## 📊 Key Insights
 
 - Senior-level data scientists tend to earn significantly higher salaries.
@@ -50,27 +26,9 @@ Data-Analytics-Project---1-Data-Science-Salaries/
 - Contract-based jobs generally offer higher hourly compensation.
 
 ---
+## How to view the report :
 
-## ▶️ How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/jnoothan/Data-Analytics-Project---1-Data-Science-Salaries.git
-   cd Data-Analytics-Project---1-Data-Science-Salaries
-   ```
-
-2. **Install required libraries**:
-   Create a virtual environment (optional) and install:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch the notebook**:
-   ```bash
-   jupyter notebook Data_Science_Salaries.ipynb
-   ```
-
-4. **Open Power BI report**:
+ **Open Power BI report**:
    Navigate to the `PowerBI/` folder and open the `.pbix` file using Power BI Desktop.
 
 ---
@@ -81,12 +39,6 @@ Data-Analytics-Project---1-Data-Science-Salaries/
 - Rows: ~375
 - Features: Job title, salary, experience level, employment type, company size, remote ratio, etc.
 
----
-
-## 📷 Sample Visualizations
-
-![Salary Distribution](images/salary_distribution.png)
-![Remote Ratio vs Salary](images/remote_salary.png)
 
 ---
 
@@ -96,15 +48,9 @@ This project is under the [MIT License](LICENSE) - feel free to use or modify.
 
 ---
 
-## 🙌 Acknowledgements
-
-- [Kaggle Dataset](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
-- Inspiration from multiple data analysis resources and communities
-
----
-
 ## 🤝 Connect
 
 Feel free to connect or reach out on:
 - **GitHub**: [jnoothan](https://github.com/jnoothan)
+- **Mail**: noothanms998@gmail.com
 
